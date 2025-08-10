@@ -54,10 +54,12 @@ Then open Project.html in any browser (Chrome recommended).
 Here are some UI previews from the project:
 
 ### 🖼️ Homepage Overview
-![Amazon Clone Homepage](https://i.postimg.cc/tgHTkCXM/amazon-clone-home.png)
+![Amazon Clone Homepage](<img width="1917" height="873" alt="Screenshot 2025-08-10 183616" src="https://github.com/user-attachments/assets/4818af79-6e68-455d-aa96-28f3b2c66e5f" />
+)
 
 ### 🛒 Product Cards Layout
-![Product Cards](https://i.postimg.cc/mgkpjsmf/amazon-clone-products.png)
+![Product Cards](<img width="1918" height="879" alt="Screenshot 2025-08-10 183632" src="https://github.com/user-attachments/assets/0d13233c-5c11-45d2-91d0-649f8797928b" />
+)
 
 > ✅ Navigation bar with hover effect  
 > ✅ Hero banner & promotional message  
